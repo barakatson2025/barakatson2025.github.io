@@ -1,7 +1,0 @@
-exclude:
-  - .github
-  - admin
-  - assets
-  - README.md
-  - scripts
-  - style.css
