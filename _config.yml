@@ -1,15 +1,7 @@
-theme: null
-plugins: []
 exclude:
   - .github
   - admin
   - assets
   - README.md
-include:
-  - index.html
-  - about.html
-  - contact.html
-  - experience.html
-  - projects.html
-  - services.html
-  - .nojekyll
+  - scripts
+  - style.css
